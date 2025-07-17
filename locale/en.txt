@@ -1,0 +1,54 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_FB32D90C_EB26_178C_41CD_0FA6CDFA9E9F.label = 1- Entrada_Principal_360
+panorama_FB45D2B4_EB26_1A93_41E0_E2ECC5BF698C.label = 10- Corredor_Meio_2_360
+panorama_FB45A915_EB26_179C_41DC_03215D083252.label = 11- Palanque_360
+panorama_FB452FEB_EB26_2AB4_41D3_06308EB9BB84.label = 12- Corredor_Startups_360
+panorama_FB45A5ED_EB26_3E8C_41BA_89167EEC7567.label = 13- Corredor_Startups_2_360
+panorama_FB45FBDA_EB26_2A94_41EA_AA382301471A.label = 15- Sala_Descompressao_1_360
+panorama_0BA67A03_19E9_93EF_41AF_0DDDE12BF98A.label = 16- Mezanino_Principal_1_360
+panorama_FB45D7BE_EB26_1A8C_41E4_C0C08CA10558.label = 17- Mezanino_Principal_2_360
+panorama_FB45FDD2_EB26_6E94_41E4_07D721EFC2F3.label = 18- Mezanino_Principal_3_360
+panorama_FB456450_EB26_7D94_41E9_8C35BF83CD3E.label = 19- Sala_Descompressao_2_360
+panorama_FB45D054_EB26_359C_41DE_841B4A42A0F1.label = 2- Entrada_Principal_2_360
+panorama_FB457AC2_EB26_6AF4_41D3_2C2372DBB0F9.label = 20- Espaco_Maker_1_360
+panorama_FB4560B5_EB26_169D_41C6_C78F8E1D2534.label = 21- Espaco_Maker_2_360
+panorama_FB4506FE_EB26_1A8C_41E6_CB7EF61FBEE8.label = 22- Espaco_Maker_3_360
+panorama_FB455651_EB26_3D94_41EA_8A91EFAE7E40.label = 3- Entrada_Principal_3_360
+panorama_FB457C50_EB26_2D93_41E7_E7E9DCD3BB93.label = 4- Mezanino_Entrada_1_360
+panorama_FB4533A6_EB26_1ABC_41AA_E161780B7C76.label = 5- Mezanino_Entrada_2_360
+panorama_FB4559D5_EB26_169C_41CD_6E5023D7EC4E.label = 6- Entrada_Placa_360
+panorama_FB449FE3_EB26_EAB5_41C8_5C0E4A307098.label = 7- Entrada_Corredor_1_360
+panorama_FB451639_EB26_FD95_41E4_0D2B20F8AED5.label = 8- Display_Meio_360
+panorama_FB456CBC_EB26_EE8C_41E0_D9E5739B8D7E.label = 9- Corredor_Meio_360
+panorama_F863BCC6_EAE2_6EFC_41E1_F2FE3A2D8A52.label = fade-in-1
+panorama_1E06C8A3_0EEE_FB69_4199_A1C08A885D56.label = fade-in-10
+panorama_1FB4D42C_0EEE_AB7F_4193_07DADE388B28.label = fade-in-11
+panorama_1BCAD79C_0EE2_555F_4192_5692A94C701A.label = fade-in-12
+panorama_1ADDA1FC_0EE1_ECDF_41A6_4232D1D37F8D.label = fade-in-13
+panorama_1A0BF7F3_0EE6_54E9_41A5_3A66E5B3FCF5.label = fade-in-15
+panorama_1B4F57E3_0EE3_F4E9_418A_CDA9872E2E4E.label = fade-in-16
+panorama_19FD5894_0EFE_7B2E_4162_0FDFB36D0D37.label = fade-in-17
+panorama_16DE1B94_0EE2_5D2E_41A4_EC51DA198F14.label = fade-in-18
+panorama_158CA5DA_0EE1_B4DB_4192_849EA0206528.label = fade-in-19
+panorama_F9221231_EB26_3594_41C9_3E0332B8A1B7.label = fade-in-2
+panorama_14C7840A_0EE2_EB3B_419D_3A528C809829.label = fade-in-20
+panorama_15D2D68E_0EE3_D73A_4166_A2F3F66DB40E.label = fade-in-21
+panorama_12CFFE0A_0EE1_B73B_415C_A40E8329814F.label = fade-in-22
+panorama_F8B725FF_EAE6_3E8C_41E9_78F8AB541D5C.label = fade-in-3
+panorama_F9CF9D2E_F514_F03F_41E2_735775B6929F.label = fade-in-4
+panorama_FA937AD8_F514_3063_41EA_7B0608E73283.label = fade-in-5
+panorama_01704850_0EE2_5B26_4165_CA8EEA74A0A0.label = fade-in-6
+panorama_1E84EB2D_0EE1_DD79_4186_0B5377722764.label = fade-in-7
+panorama_1E4226E4_0EE3_F4EF_419A_D4EF4C4CC64A.label = fade-in-8
+panorama_1FF2085D_0EE1_FBD9_41A6_09AFE5D7F8F9.label = fade-in-9
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Parque Tecnologico - FIEP
